@@ -1,0 +1,79 @@
+Middlewares
+
+Total LOC: 20
+Total Modules: 2
+Average Module Size: 10.00 LOC
+Coupling Percent: 0.1%
+Cohesion: Average complexity: A (3.2)
+
+Multipart
+
+Total LOC: 113
+Total Modules: 9
+Average Module Size: 12.56 LOC
+Coupling Percent: 0.2%
+Cohesion: Average complexity: A (2.8)
+
+Normalization
+
+Total LOC: 16
+Total Modules: 1
+Average Module Size: 16.00 LOC
+Coupling Percent: 0.0%
+Cohesion: Average complexity: A (1.5)
+
+Ranges
+
+Total LOC: 186
+Total Modules: 8
+Average Module Size: 23.25 LOC
+Coupling Percent: 0.3%
+Cohesion: Average complexity: A (3.9)
+
+Connection
+
+Total LOC: 411
+Total Modules: 15
+Average Module Size: 27.40 LOC
+Coupling Percent: 0.2%
+Cohesion: Average complexity: B (4.2)
+
+Cookies
+
+Total LOC: 329
+Total Modules: 12
+Average Module Size: 27.42 LOC
+Coupling Percent: 0.3%
+Cohesion: Average complexity: A (3.4)
+
+Application
+
+Total LOC: 861
+Total Modules: 20
+Average Module Size: 43.05 LOC
+Coupling Percent: 0.25%
+Cohesion: Average complexity: A (3.8)
+
+Routing
+
+Total LOC: 1002
+Total Modules: 25
+Average Module Size: 40.08 LOC
+Coupling Percent: 0.35%
+Cohesion: Average complexity: B (4.1)
+
+Session
+
+Total LOC: 444
+Total Modules: 14
+Average Module Size: 31.71 LOC
+Coupling Percent: 0.15%
+Cohesion: Average complexity: A (3.7)
+
+Exceptions
+
+Total LOC: 63
+Total Modules: 5
+Average Module Size: 12.60 LOC
+Coupling Percent: 0.05%
+Cohesion: Average complexity: A (2.3)
